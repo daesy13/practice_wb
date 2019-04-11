@@ -1,0 +1,7 @@
+do you use Python 2 or Python 3
+what is the difference of those 2 versions
+
+what are they using to comunicate to their databases
+are you using SQLAlchemy
+
+are they testing their python code and what testing module that they're using
